@@ -1,0 +1,402 @@
+CAHIER DES CHARGES COMPLET
+Sélection d'Entreprises Systémiques à Horizon Multi-Générationnel
+1. Objet du cahier des charges
+
+Ce cahier des charges définit les critères de sélection d'entreprises occupant une position systémique au sein de l'économie mondiale.
+
+L'objectif n'est pas d'identifier les entreprises les plus innovantes.
+
+L'objectif n'est pas d'identifier les entreprises les plus rentables.
+
+L'objectif n'est pas d'identifier les entreprises les plus populaires.
+
+L'objectif est d'identifier les organisations dont la disparition provoquerait une perturbation majeure d'un système économique, industriel, financier, technologique ou logistique.
+
+L'entreprise recherchée doit constituer un composant critique d'une chaîne de valeur.
+
+Elle doit représenter un maillon difficilement remplaçable.
+
+Elle doit exercer une influence disproportionnée par rapport à sa taille.
+
+2. Vision patrimoniale
+
+Le portefeuille doit être constitué d'actifs capables de traverser plusieurs générations.
+
+La priorité absolue n'est pas la croissance maximale.
+
+La priorité est :
+
+la permanence ;
+la nécessité économique ;
+la résilience ;
+la prédictibilité ;
+la captation durable de valeur.
+
+Le portefeuille doit chercher à posséder des infrastructures économiques invisibles mais indispensables.
+
+3. Philosophie fondamentale
+
+La plupart des entreprises vendent quelque chose.
+
+Les entreprises systémiques permettent à d'autres entreprises de fonctionner.
+
+Leur rôle n'est pas d'être visibles.
+
+Leur rôle est d'être nécessaires.
+
+L'entreprise idéale ne doit pas être analysée comme un produit.
+
+Elle doit être analysée comme un élément de l'architecture économique mondiale.
+
+4. Principe directeur
+
+Question fondamentale :
+
+Que se passe-t-il si cette entreprise disparaît demain matin ?
+
+L'analyse doit ignorer :
+
+la notoriété ;
+le storytelling ;
+les modes ;
+les narratifs boursiers.
+
+Elle doit se concentrer exclusivement sur :
+
+la dépendance économique ;
+la difficulté de remplacement ;
+les conséquences de la disparition.
+5. Définition de l'entreprise recherchée
+
+L'entreprise idéale possède simultanément :
+
+une position dominante ;
+une forte criticité ;
+un pouvoir de prix ;
+des barrières à l'entrée extrêmes ;
+une faible substituabilité ;
+une dépendance client élevée ;
+une résilience historique ;
+une forte génération de cash ;
+une longévité probable exceptionnelle.
+
+L'entreprise doit être plus proche d'une infrastructure que d'un simple fournisseur.
+
+6. Critère fondamental : Mission Critical
+
+Le caractère mission-critical constitue le filtre principal.
+
+L'entreprise doit fournir un service, une technologie, une infrastructure ou une donnée dont l'absence empêche le fonctionnement normal d'une activité économique.
+
+Questions :
+
+Le client peut-il continuer à fonctionner sans elle ?
+Combien de temps ?
+À quel coût ?
+Avec quel impact opérationnel ?
+
+Plus la dépendance est immédiate, plus la qualité systémique augmente.
+
+7. Critère fondamental : Choke Point
+
+L'entreprise doit idéalement constituer un goulot d'étranglement.
+
+Un choke point est un point de passage obligé.
+
+Le système économique doit être contraint de passer par elle.
+
+L'entreprise idéale capte une partie de la valeur créée par tous les autres acteurs.
+
+Elle agit comme un péage.
+
+Le péage est souvent plus durable que l'activité elle-même.
+
+8. Critère fondamental : Temps de remplacement
+
+Le temps de remplacement constitue une mesure directe de la qualité systémique.
+
+Question :
+
+Combien de temps faudrait-il à l'économie pour reconstruire un substitut crédible ?
+
+Notation conceptuelle :
+
+quelques semaines : faible qualité systémique ;
+quelques mois : qualité moyenne ;
+plusieurs années : qualité élevée ;
+une décennie ou plus : qualité exceptionnelle.
+9. Critère fondamental : Dépendance client
+
+L'entreprise doit générer une dépendance économique profonde.
+
+Cette dépendance peut provenir :
+
+de la réglementation ;
+des données ;
+des logiciels ;
+des infrastructures ;
+des standards ;
+des réseaux ;
+des certifications ;
+des habitudes opérationnelles.
+
+Le client doit considérer le remplacement comme coûteux, risqué ou irrationnel.
+
+10. Critère fondamental : Switching Costs
+
+Les coûts de changement doivent être élevés.
+
+L'analyse doit considérer :
+
+coûts financiers ;
+coûts humains ;
+coûts opérationnels ;
+coûts réglementaires ;
+coûts de formation ;
+coûts technologiques.
+
+Une entreprise facilement remplaçable ne peut pas être considérée comme systémique.
+
+11. Critère fondamental : Contrôle d'un standard
+
+L'entreprise doit idéalement contrôler un standard.
+
+Un standard peut être :
+
+technique ;
+industriel ;
+logiciel ;
+réglementaire ;
+financier ;
+informationnel.
+
+Les standards créent une dépendance auto-renforcée.
+
+Plus ils sont utilisés, plus ils deviennent difficiles à remplacer.
+
+12. Critère fondamental : Effets de réseau
+
+L'entreprise doit bénéficier d'effets de réseau puissants.
+
+La valeur du système doit croître avec :
+
+le nombre d'utilisateurs ;
+le volume de données ;
+le nombre de partenaires ;
+le nombre de transactions ;
+le nombre d'interactions.
+
+Les effets de réseau renforcent la domination naturelle.
+
+13. Critère fondamental : Barrières à l'entrée
+
+Les barrières doivent être exceptionnelles.
+
+L'analyse doit mesurer :
+
+Barrières technologiques
+
+Complexité scientifique.
+
+Expertise unique.
+
+Propriété intellectuelle.
+
+Barrières réglementaires
+
+Licences.
+
+Homologations.
+
+Normes.
+
+Certifications.
+
+Barrières capitalistiques
+
+Investissements massifs.
+
+Temps de construction.
+
+Échelle mondiale.
+
+Barrières opérationnelles
+
+Savoir-faire.
+
+Relations clients.
+
+Intégration dans les processus.
+
+14. Critère fondamental : Pouvoir de prix
+
+Une entreprise systémique doit pouvoir augmenter ses prix sans perdre significativement ses clients.
+
+Le pouvoir de prix est souvent le symptôme d'une dépendance.
+
+Questions :
+
+Les prix augmentent-ils plus vite que l'inflation ?
+Les marges résistent-elles aux crises ?
+Les clients absorbent-ils les hausses ?
+15. Critère fondamental : Monopole fonctionnel
+
+L'entreprise n'a pas nécessairement besoin d'être un monopole légal.
+
+Elle doit idéalement être un monopole fonctionnel.
+
+Question :
+
+Existe-t-il réellement une alternative équivalente ?
+
+Une alternative théorique n'est pas une alternative réelle.
+
+16. Critère fondamental : Résilience historique
+
+L'entreprise doit avoir traversé :
+
+crises financières ;
+récessions ;
+périodes inflationnistes ;
+hausses de taux ;
+crises énergétiques ;
+ruptures technologiques ;
+tensions géopolitiques.
+
+La domination doit être observée sur plusieurs décennies.
+
+17. Critère fondamental : Résilience financière
+
+Une entreprise systémique doit pouvoir survivre à un choc majeur.
+
+Critères recherchés :
+
+forte génération de cash-flow ;
+rentabilité durable ;
+dette maîtrisée ;
+accès au financement ;
+flexibilité opérationnelle.
+18. Critère fondamental : Résilience concurrentielle
+
+Question :
+
+Une entreprise mieux financée pourrait-elle reproduire ce modèle ?
+
+Si la réponse est oui, la qualité systémique est limitée.
+
+L'entreprise idéale doit posséder des avantages impossibles à accélérer uniquement par le capital.
+
+19. Critère fondamental : Résilience technologique
+
+Question :
+
+Une rupture technologique peut-elle rendre l'entreprise obsolète ?
+
+L'entreprise idéale doit :
+
+absorber les ruptures ;
+imposer les ruptures ;
+ou bénéficier des ruptures.
+
+Elle ne doit pas les subir.
+
+20. Critère fondamental : Résilience géopolitique
+
+L'entreprise doit pouvoir survivre :
+
+aux guerres commerciales ;
+aux sanctions ;
+à la fragmentation du commerce mondial ;
+aux tensions entre grandes puissances.
+
+Une dépendance excessive à un seul pays constitue une faiblesse.
+
+21. Critère fondamental : Résilience réglementaire
+
+L'entreprise ne doit pas dépendre d'un privilège politique temporaire.
+
+La réglementation doit renforcer son modèle.
+
+Elle ne doit pas être l'unique fondement du modèle.
+
+22. Critère fondamental : Longévité probable
+
+Question :
+
+Cette entreprise a-t-elle une probabilité crédible d'exister encore dans 50 ans ?
+
+Puis :
+
+dans 100 ans ?
+
+L'analyse doit intégrer :
+
+technologie ;
+démographie ;
+géopolitique ;
+réglementation ;
+énergie ;
+environnement.
+23. Critère fondamental : Universalité de la fonction
+
+L'entreprise doit idéalement répondre à un besoin :
+
+mondial ;
+durable ;
+récurrent ;
+indépendant des modes.
+
+Plus le besoin est universel, plus la probabilité de longévité augmente.
+
+24. Critère fondamental : Invisibilité stratégique
+
+Les meilleures entreprises systémiques sont souvent invisibles.
+
+Le client final ignore parfois leur existence.
+
+Pourtant :
+
+banques ;
+industriels ;
+gouvernements ;
+entreprises ;
+infrastructures
+
+dépendent d'elles.
+
+L'invisibilité constitue souvent un avantage.
+
+25. Critère ultime
+
+La question finale doit être brutale :
+
+Si l'entreprise disparaît aujourd'hui, le monde dispose-t-il d'une solution équivalente dans les cinq prochaines années ?
+
+Si la réponse est oui :
+
+elle n'est probablement pas systémique.
+
+Si la réponse est non :
+
+elle mérite une analyse approfondie.
+
+Synthèse finale
+
+L'entreprise systémique idéale n'est pas nécessairement la plus innovante.
+
+Elle n'est pas nécessairement la plus médiatisée.
+
+Elle n'est pas nécessairement la plus performante à court terme.
+
+Elle est :
+
+indispensable ;
+difficilement remplaçable ;
+profondément intégrée ;
+économiquement nécessaire ;
+protégée par des barrières exceptionnelles ;
+capable de capter durablement une partie de la valeur créée par les autres acteurs.
+
+Son principal avantage concurrentiel n'est pas sa croissance.
+
+Son principal avantage concurrentiel est que le système économique dépend d'elle davantage qu'elle ne dépend du système économique.
