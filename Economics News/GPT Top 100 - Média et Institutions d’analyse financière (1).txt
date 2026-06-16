@@ -1,0 +1,93 @@
+Top 100 institutions d’analyse financière
+
+Classées par fiabilité et réputation globale
+Bridgewater Associates : Recherche macro et cycles économiques : Exceptionnelle
+Bloomberg : Données financières et analyse de marché : Exceptionnelle
+International Monetary Fund : Recherche macro mondiale et stabilité financière : Exceptionnelle
+Bank for International Settlements : Recherche bancaire mondiale et stabilité financière : Exceptionnelle
+Federal Reserve System : Analyse macro et politique monétaire : Exceptionnelle
+European Central Bank : Analyse macro et politique monétaire zone euro : Exceptionnelle
+Bank of England : Analyse macro et politique monétaire : Exceptionnelle
+Bank of Japan : Analyse macro et politique monétaire : Exceptionnelle
+JPMorgan : Recherche macro et stratégie de marché : Exceptionnelle
+Goldman Sachs : Recherche macro et stratégie globale : Exceptionnelle
+Morgan Stanley : Recherche actions et macro globale : Très élevée
+Bank of America : Recherche macro et stratégie marchés : Très élevée
+UBS : Recherche macro et allocation d’actifs : Très élevée
+PIMCO : Analyse obligations et cycles macro : Très élevée
+Moody's : Analyse crédit souverain et corporate : Très élevée
+S&P Global : Analyse financière et notations : Très élevée
+Fitch Ratings : Analyse crédit souverain et corporate : Très élevée
+FactSet : Données financières institutionnelles : Très élevée
+Refinitiv : Données et recherche financières : Très élevée
+Morningstar : Analyse ETF et fonds : Très élevée
+BCA Research : Recherche macro institutionnelle : Très élevée
+Capital Economics : Prévisions macro économiques : Très élevée
+Oxford Economics : Recherche macro globale : Très élevée
+Pantheon Macroeconomics : Analyse macro et banques centrales : Très élevée
+Renaissance Technologies : Recherche quantitative et marchés : Très élevée
+AQR Capital Management : Recherche quantitative et factor investing : Très élevée
+GMO : Analyse valorisation et cycles : Très élevée
+Oaktree Capital Management : Analyse crédit et cycles économiques : Très élevée
+BlackRock : Recherche marchés et allocation globale : Très élevée
+Vanguard : Recherche long terme et allocation : Très élevée
+State Street Global Advisors : Recherche ETF et allocation : Élevée
+Amundi : Recherche ETF et marchés européens : Élevée
+Fidelity Investments : Recherche actions et fonds : Élevée
+Capital Group : Recherche fondamentale actions : Élevée
+Schroders : Allocation multi-actifs et recherche macro : Élevée
+Franklin Templeton : Recherche marchés émergents et obligations : Élevée
+T. Rowe Price : Recherche actions long terme : Élevée
+AllianceBernstein : Recherche multi-actifs : Élevée
+Janus Henderson : Analyse marchés et allocation : Élevée
+AXA Investment Managers : Recherche obligations et macro : Élevée
+Deutsche Bank : Recherche macro et marchés : Élevée
+Barclays : Recherche marchés actions et taux : Élevée
+HSBC : Recherche macro mondiale : Élevée
+Citigroup : Recherche macro et marchés : Élevée
+BNP Paribas : Recherche macro et marchés européens : Élevée
+Société Générale : Recherche marchés et dérivés : Élevée
+Nomura : Recherche macro et marchés asiatiques : Élevée
+Evercore ISI : Recherche actions et stratégie : Élevée
+TS Lombard : Recherche macro indépendante : Élevée
+Gavekal Research : Recherche macro indépendante : Élevée
+Variant Perception : Recherche macro indépendante : Élevée
+Independent Strategy : Recherche macro et actions : Élevée
+Absolute Strategy Research : Recherche macro : Élevée
+Longview Economics : Recherche macro et stratégie : Élevée
+Cornerstone Macro : Recherche macro et politique monétaire : Élevée
+Medley Global Advisors : Recherche macro et politique économique : Élevée
+Topdown Charts : Analyse macro et cycles : Élevée
+SentimenTrader : Analyse sentiment de marché : Élevée
+MacroMicro : Données macro visuelles : Élevée
+Koyfin : Plateforme d’analyse financière : Élevée
+National Bureau of Economic Research : Recherche économique académique : Très élevée
+OECD : Analyse économique mondiale : Très élevée
+World Bank : Analyse macro et développement : Très élevée
+Banque de France : Recherche macro et stabilité financière : Très élevée
+Peterson Institute for International Economics : Recherche macro mondiale : Élevée
+Bruegel : Think tank économique européen : Élevée
+Brookings Institution : Recherche économique et géopolitique : Élevée
+CEPR : Réseau académique économique : Élevée
+IFO Institute : Analyse conjoncture allemande : Élevée
+Kiel Institute for the World Economy : Analyse commerce mondial : Élevée
+Financial Times : Presse économique et analyse : Élevée
+Wall Street Journal : Presse économique et marchés : Élevée
+The Economist : Analyse économique et géopolitique : Élevée
+Reuters : Dépêches économiques et financières : Élevée
+CNBC : Actualité marchés et interviews : Moyenne à élevée
+MarketWatch : Actualité financière : Moyenne
+Seeking Alpha : Analyses d’investisseurs : Moyenne
+Investing.com : Données et actualités marchés : Moyenne
+Zonebourse : Synthèse financière retail : Moyenne
+Boursorama : Actualité financière retail : Moyenne
+Saxo Bank : Analyse macro pour investisseurs : Moyenne à élevée
+Interactive Brokers : Données marchés et analyse : Moyenne à élevée
+Charles Schwab : Recherche retail : Moyenne à élevée
+TD Ameritrade : Recherche retail : Moyenne
+TradingView : Analyse technique communautaire : Moyenne
+Degiro : Informations marchés basiques : Moyenne
+Trade Republic : Informations marchés basiques : Moyenne
+eToro : Analyse communautaire : Faible à moyenne
+Real Vision : Média macro et interviews : Moyenne
+ARK Invest : Recherche innovation et tech disruptive : Moyenne

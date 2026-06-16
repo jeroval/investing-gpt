@@ -1,0 +1,1 @@
+Analyse l'actualité macro-financière du moment, identifie le régime économique actuel, les risques de transition, les actifs favorisés/pénalisés et génère le dashboard météo économique.
