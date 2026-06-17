@@ -1,4 +1,4 @@
----
+
 
 CAHIER DES CHARGES
 
@@ -7,7 +7,7 @@ Identification d'Entreprises All Weather
 Méthode de sélection des entreprises capables de créer durablement de la valeur à travers les cycles économiques
 
 
----
+
 
 1. Objectif du document
 
@@ -46,7 +46,7 @@ les tensions géopolitiques.
 
 
 
----
+
 
 2. Principe fondamental
 
@@ -70,7 +70,7 @@ dans plusieurs régimes économiques différents.
 L'objectif principal est d'identifier les éléments qui permettent à l'entreprise de continuer à générer du cash-flow indépendamment du contexte macroéconomique.
 
 
----
+
 
 3. Question centrale
 
@@ -81,7 +81,7 @@ Toute l'analyse doit répondre à une seule question :
 
 
 
----
+
 
 PILIER 1
 
@@ -148,7 +148,7 @@ dépendance à l'euphorie économique.
 
 
 
----
+
 
 PILIER 2
 
@@ -200,7 +200,7 @@ financement externe permanent.
 
 
 
----
+
 
 PILIER 3
 
@@ -236,7 +236,7 @@ faible sensibilité au prix.
 
 
 
----
+
 
 PILIER 4
 
@@ -275,7 +275,7 @@ dépendance aux marchés de capitaux.
 
 
 
----
+
 
 PILIER 5
 
@@ -324,7 +324,7 @@ position incontournable.
 
 
 
----
+
 
 PILIER 6
 
@@ -364,7 +364,7 @@ Quelle dépendance constitue le principal risque ?
 Que se passerait-il si elle disparaissait ?
 
 
----
+
 
 PILIER 7
 
@@ -411,7 +411,7 @@ Rupture technologique
 L'entreprise reste-t-elle pertinente ?
 
 
----
+
 
 PILIER 8
 
@@ -442,7 +442,7 @@ Entreprise résiliente : survit aux crises.
 Entreprise antifragile : sort renforcée des crises.
 
 
----
+
 
 PILIER 9
 
@@ -479,7 +479,7 @@ parts de marché ?
 Le management a-t-il démontré sa capacité d'adaptation ?
 
 
----
+
 
 PILIER 10
 
@@ -500,7 +500,7 @@ Quel scénario improbable pourrait être destructeur ?
 Que faudrait-il pour que l'entreprise perde durablement son avantage concurrentiel ?
 
 
----
+
 
 Conclusion obligatoire
 
@@ -527,7 +527,7 @@ Existe-t-il des preuves historiques de cette robustesse ?
 Quels sont les principaux risques susceptibles de remettre en cause la thèse ?
 
 
----
+
 
 Conditions d'invalidation
 
@@ -540,7 +540,7 @@ Quel changement de régime invaliderait l'analyse ?
 Quel événement remettrait en cause l'investissement ?
 
 
----
+
 
 Question ultime
 
