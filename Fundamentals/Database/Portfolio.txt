@@ -1,0 +1,399 @@
+CAHIER DES CHARGES
+
+Construction de Portefeuille Patrimonial Concentré
+
+Méthode de sélection, d'allocation et d'arbitrage du capital entre entreprises de qualité
+
+---
+
+1. Objet du document
+
+Ce référentiel ne cherche pas à déterminer si une entreprise est excellente.
+
+Cette question est déjà traitée par :
+
+* Positioning
+* Adaptatives
+* Systemics
+* Weather
+
+L'objectif de ce document est différent.
+
+Il vise à déterminer :
+
+* quelles entreprises méritent une place en portefeuille ;
+* quelles pondérations sont justifiées ;
+* quels ajouts améliorent réellement le portefeuille ;
+* quels ajouts constituent une dilution inutile ;
+* comment arbitrer entre plusieurs entreprises de qualité.
+
+Le portefeuille est considéré comme un système.
+
+L'analyse ne porte plus uniquement sur l'entreprise.
+
+Elle porte sur l'impact de cette entreprise sur l'ensemble du portefeuille.
+
+---
+
+2. Principe fondamental
+
+Une excellente entreprise n'entre pas automatiquement en portefeuille.
+
+Une entreprise mérite une place uniquement si elle améliore le portefeuille existant.
+
+La charge de la preuve repose toujours sur la nouvelle candidate.
+
+La question n'est jamais :
+
+"Pourquoi acheter ?"
+
+La question est :
+
+"Pourquoi lui donner une place qui appartient actuellement à une autre entreprise ?"
+
+---
+
+3. Vision patrimoniale
+
+Le portefeuille doit être conçu pour être :
+
+* détenu sur plusieurs décennies ;
+* renforcé progressivement ;
+* transmis entre générations.
+
+L'objectif principal est :
+
+* préserver le capital ;
+* composer le capital ;
+* réduire les risques de perte permanente ;
+* maintenir une forte capacité d'adaptation ;
+* conserver une robustesse face aux changements de régime économique.
+
+La performance n'est pas recherchée indépendamment de la résilience.
+
+---
+
+4. Le portefeuille comme système
+
+Une ligne ne doit jamais être analysée isolément.
+
+Toute entreprise doit être analysée relativement :
+
+* aux autres positions ;
+* aux autres pondérations ;
+* aux autres risques ;
+* aux autres moteurs économiques présents.
+
+Une entreprise exceptionnelle peut être inutile dans un portefeuille déjà fortement exposé au même type de risque, de besoin ou de moteur économique.
+
+---
+
+5. Test de contribution marginale
+
+Toute nouvelle entreprise doit répondre aux questions suivantes :
+
+Que m'apporte-t-elle ?
+
+Que remplace-t-elle ?
+
+Que perd-on ?
+
+Que gagne-t-on ?
+
+Pourquoi le portefeuille devient-il meilleur grâce à son ajout ?
+
+Pourquoi le portefeuille deviendrait-il moins bon sans elle ?
+
+Si les réponses sont floues, l'ajout doit être rejeté.
+
+---
+
+6. Test de réallocation du capital
+
+Chaque nouvel investissement possède un coût d'opportunité.
+
+Le capital alloué à une nouvelle ligne doit nécessairement provenir :
+
+* d'une ligne existante ;
+* d'un futur renforcement ;
+* ou d'une réserve de liquidités.
+
+Questions obligatoires :
+
+Quelle ligne est réduite ?
+
+Pourquoi cette ligne précisément ?
+
+Pourquoi la nouvelle entreprise mérite-t-elle davantage de capital ?
+
+Le transfert améliore-t-il réellement le portefeuille ?
+
+La diversification obtenue compense-t-elle la perte de concentration ?
+
+---
+
+7. Test de qualité relative
+
+Une entreprise n'est pas comparée au marché.
+
+Elle est comparée aux meilleures entreprises déjà détenues.
+
+Questions :
+
+Est-elle plus résiliente ?
+
+Plus adaptative ?
+
+Plus systémique ?
+
+Plus robuste ?
+
+Plus diversifiée ?
+
+Plus difficile à remplacer ?
+
+Plus pertinente à 25 ans ?
+
+Plus pertinente à 50 ans ?
+
+Plus pertinente à 100 ans ?
+
+Si elle n'est pas supérieure, apporte-t-elle une diversification exceptionnelle ?
+
+---
+
+8. Test de diversification réelle
+
+La diversification ne se mesure pas au nombre de lignes.
+
+Elle se mesure à la diversité des dépendances.
+
+Le portefeuille doit rechercher une diversification :
+
+* sectorielle ;
+* géographique ;
+* économique ;
+* réglementaire ;
+* technologique ;
+* énergétique ;
+* monétaire ;
+* géopolitique.
+
+Toute nouvelle position doit réduire au moins une concentration existante.
+
+---
+
+9. Diversification des besoins fondamentaux
+
+Le portefeuille doit éviter de dépendre d'un nombre limité de besoins économiques.
+
+Identifier les besoins servis par chaque ligne :
+
+* information ;
+* communication ;
+* paiement ;
+* santé ;
+* recherche ;
+* énergie ;
+* financement ;
+* logistique ;
+* automatisation ;
+* infrastructures ;
+* sécurité ;
+* production industrielle.
+
+Questions :
+
+Quel besoin fondamental cette entreprise apporte-t-elle ?
+
+Ce besoin est-il déjà fortement représenté ?
+
+Cet ajout améliore-t-il l'équilibre du portefeuille ?
+
+---
+
+10. Diversification des moteurs économiques
+
+Le portefeuille doit éviter de dépendre d'un nombre limité de moteurs de création de valeur.
+
+Identifier :
+
+* abonnements ;
+* transactions ;
+* publicité ;
+* licences ;
+* logiciels ;
+* données ;
+* maintenance ;
+* assurance ;
+* actifs réels ;
+* infrastructures ;
+* consommables ;
+* services récurrents.
+
+Une concentration excessive doit être pénalisée.
+
+---
+
+11. Diversification All Weather
+
+Le portefeuille doit rester robuste dans différents régimes économiques.
+
+Questions :
+
+Le portefeuille devient-il plus résistant à l'inflation ?
+
+Plus résistant à la récession ?
+
+Plus résistant à la stagflation ?
+
+Plus résistant à une hausse durable des taux ?
+
+Plus résistant à une crise du crédit ?
+
+Plus résistant à une crise financière ?
+
+Plus résistant à un choc énergétique ?
+
+Plus résistant à une fragmentation géopolitique ?
+
+Plus résistant à une rupture technologique ?
+
+L'ajout améliore-t-il la robustesse globale ou renforce-t-il une dépendance existante ?
+
+---
+
+12. Test de recouvrement
+
+L'entreprise apporte-t-elle réellement quelque chose de nouveau ?
+
+Questions :
+
+Apporte-t-elle un besoin fondamental nouveau ?
+
+Apporte-t-elle un moteur économique nouveau ?
+
+Apporte-t-elle un profil de risque différent ?
+
+Apporte-t-elle une exposition nouvelle ?
+
+Apporte-t-elle une protection contre un scénario absent du portefeuille ?
+
+Ou reproduit-elle principalement des caractéristiques déjà présentes ?
+
+Plus le recouvrement est élevé, plus le niveau d'exigence doit être élevé.
+
+---
+
+13. Test de dilution
+
+La diversification ne doit jamais devenir une dilution.
+
+Questions :
+
+Cet ajout améliore-t-il réellement la qualité du portefeuille ?
+
+Ou augmente-t-il seulement le nombre de lignes ?
+
+La réduction des meilleures convictions est-elle justifiée ?
+
+Le portefeuille devient-il meilleur ou simplement plus confortable psychologiquement ?
+
+---
+
+14. Test du scénario catastrophe
+
+Supposer que l'investissement est une erreur.
+
+Questions :
+
+Pourquoi cette entreprise ne devrait-elle pas être ajoutée ?
+
+Quel risque est sous-estimé ?
+
+Quelle dépendance est cachée ?
+
+Quelle hypothèse paraît trop optimiste ?
+
+Quel scénario pourrait invalider l'intérêt de cette position ?
+
+Pourquoi le portefeuille pourrait-il être meilleur sans elle ?
+
+---
+
+15. Test de l'irréversibilité
+
+Supposer que la position ne peut pas être vendue avant vingt ans.
+
+Questions :
+
+La conviction reste-t-elle intacte ?
+
+Le besoin fondamental restera-t-il pertinent ?
+
+L'organisation restera-t-elle pertinente ?
+
+La diversification apportée restera-t-elle utile ?
+
+Le portefeuille sera-t-il toujours meilleur grâce à cette décision ?
+
+---
+
+16. Test du portefeuille limité
+
+Questions obligatoires :
+
+Si le portefeuille était limité à 15 lignes, cette entreprise serait-elle retenue ?
+
+Si le portefeuille était limité à 10 lignes ?
+
+Si le portefeuille était limité à 5 lignes ?
+
+Si le portefeuille était limité à 3 lignes ?
+
+Pourquoi ?
+
+---
+
+17. Conditions d'ajout
+
+Une entreprise mérite une place uniquement si elle améliore au moins un des éléments suivants :
+
+* qualité globale ;
+* diversification globale ;
+* résilience globale ;
+* potentiel de composition du capital ;
+* robustesse All Weather.
+
+Si aucun de ces éléments n'est amélioré, l'ajout doit être considéré comme une dilution.
+
+---
+
+18. Question ultime
+
+Avant toute intégration :
+
+Si cette entreprise n'était pas déjà présente dans ma watchlist, ferais-je un effort actif pour lui trouver une place ?
+
+Puis :
+
+Si je devais financer cette position uniquement en réduisant mes trois plus fortes convictions, le ferais-je réellement ?
+
+Enfin :
+
+Cet ajout augmente-t-il la qualité du portefeuille ou seulement sa complexité ?
+
+---
+
+Conclusion obligatoire
+
+Toute décision d'ajout, de suppression ou de réallocation doit conclure explicitement :
+
+* Améliore le portefeuille
+* Neutre
+* Dilution probable
+* Rejet
+
+Une entreprise n'entre pas en portefeuille parce qu'elle est excellente.
+
+Elle entre parce qu'elle améliore le portefeuille.

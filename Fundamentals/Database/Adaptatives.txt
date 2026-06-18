@@ -1,6 +1,6 @@
 CAHIER DES CHARGES COMPLET
 
-Sélection d'Entreprises Compounders Adaptatives à Horizon Multi-Générationnel
+Sélection d'Organisations Auto-Régénératives
 
 1. Objet du cahier des charges
 
@@ -107,33 +107,81 @@ survivre aux changements de régime économique
 
 Le principal avantage concurrentiel recherché est donc la capacité de l'organisation à rester pertinente lorsque le monde change.
 
+--- 
+
+5. Test de l'Organisation
+
+Question fondamentale :
+
+Si l'ensemble des actifs actuels de l'entreprise disparaissait aujourd'hui, est-ce que je ferais encore confiance à cette organisation pour recréer de la valeur dans les décennies à venir ?
+
+L'objectif est de distinguer :
+
+une franchise exceptionnelle ;
+une organisation exceptionnelle.
+
+Certaines entreprises possèdent aujourd'hui des actifs extraordinaires mais dépendent fortement de ces actifs.
+
+D'autres possèdent un système de décision, une culture, une gouvernance et une capacité d'allocation du capital capables de reconstruire de nouveaux moteurs de croissance au fil du temps.
+
+Les entreprises les plus recherchées sont celles dont :
+
+la culture ;
+les processus ;
+les mécanismes de décision ;
+l'allocation du capital ;
+la discipline d'acquisition ;
+la capacité d'adaptation ;
+
+constituent eux-mêmes un avantage concurrentiel durable.
+
+Une organisation capable de recréer son avenir mérite une valorisation supérieure à une organisation dépendante de ses actifs actuels.
+
+L'objectif n'est pas de posséder les meilleurs produits du monde.
+
+L'objectif est de posséder les meilleures machines à créer les produits, services et activités de demain.
+
+Exemples typiques :
+
+conglomérats disciplinés ;
+consolidateurs ;
+plateformes d'allocation du capital ;
+organisations capables de changer profondément de forme au fil des décennies
+
+---
+6. Définition de l'Entreprise Recherchée
+
+L'entreprise idéale est un Adaptive Capital Allocator.
+
+Sa valeur provient principalement de son organisation, de sa culture, de son allocation du capital et de sa capacité d'adaptation plutôt que d'un produit, d'une technologie ou d'un marché spécifique.
+
+Elle doit être capable de créer, acquérir, développer, réallouer et remplacer ses moteurs de croissance au fil du temps.
+
+Elle possède généralement plusieurs caractéristiques simultanées :
+
+une taille significative ;
+une présence mondiale ;
+des revenus diversifiés ;
+des clients diversifiés ;
+des activités diversifiées ;
+plusieurs moteurs économiques ;
+une culture d'expansion ;
+une discipline d'acquisition ;
+une forte capacité d'innovation ;
+une allocation du capital rationnelle ;
+une gouvernance robuste ;
+une faible dépendance à un élément unique ;
+une probabilité élevée d'exister encore dans 50 à 100 ans.
+
+L'entreprise idéale doit être capable de changer de forme sans perdre sa capacité à créer de la valeur.
+
+Son principal avantage concurrentiel n'est pas nécessairement un produit, une technologie ou un actif spécifique.
+
+Son principal avantage concurrentiel est sa capacité à créer les prochains relais de croissance avant que les précédents n'arrivent à maturité.
+
 ---
 
-5. Définition de l'entreprise recherchée
-
-L'entreprise idéale est un compounder adaptatif.
-
-Elle possède plusieurs caractéristiques simultanées :
-
-une taille significative
-une présence mondiale
-des revenus diversifiés
-des clients diversifiés
-des activités diversifiées
-des moteurs de croissance multiples
-une culture d'expansion
-une discipline d'acquisition
-une forte capacité d'innovation
-une allocation du capital rationnelle
-une gouvernance robuste
-une faible dépendance à un élément unique
-une probabilité élevée d'exister encore dans 50 à 100 ans
-
-Elle doit être capable de changer de forme sans perdre sa valeur.
-
----
-
-6. Exigence de taille et de solidité
+7. Exigence de taille et de solidité
 
 L'entreprise doit être suffisamment grande pour disposer de ressources stratégiques importantes.
 
@@ -164,7 +212,7 @@ Les petites entreprises peuvent être très performantes, mais elles comportent 
 
 ---
 
-7. Exigence de diversification des revenus
+8. Exigence de diversification des revenus
 
 L'entreprise ne doit pas dépendre excessivement d'une seule source de revenus.
 
@@ -199,7 +247,7 @@ L'entreprise idéale doit pouvoir absorber le ralentissement d'une activité san
 
 ---
 
-8. Exigence de diversification géographique
+9. Exigence de diversification géographique
 
 L'entreprise doit être présente dans plusieurs régions du monde.
 
@@ -226,7 +274,7 @@ L'entreprise idéale doit pouvoir se développer en Amérique du Nord, en Europe
 
 ---
 
-9. Exigence de diversification sectorielle interne
+10. Exigence de diversification sectorielle interne
 
 L'entreprise doit idéalement être exposée à plusieurs secteurs ou sous-secteurs.
 
@@ -256,7 +304,7 @@ Une entreprise mono-secteur peut être excellente, mais elle doit être pénalis
 
 ---
 
-10. Exigence de diversification des clients
+11. Exigence de diversification des clients
 
 L'entreprise doit éviter une dépendance excessive à un petit nombre de clients.
 
@@ -281,7 +329,7 @@ L'idéal est une entreprise dont les produits ou services sont utilisés par des
 
 ---
 
-11. Capacité d'adaptation
+12. Capacité d'adaptation
 
 C'est le critère central.
 
@@ -309,7 +357,7 @@ Une entreprise incapable de se transformer doit être éliminée, même si son a
 
 ---
 
-12. Culture d'expansion
+13. Culture d'expansion
 
 L'entreprise doit démontrer une volonté constante de croissance.
 
@@ -330,7 +378,7 @@ L'entreprise idéale considère son activité actuelle comme une base de départ
 
 ---
 
-13. Capacité d'innovation
+14. Capacité d'innovation
 
 L'entreprise doit avoir une capacité continue à innover.
 
@@ -353,7 +401,7 @@ L'objectif est de maintenir une capacité permanente à renouveler l'offre, le m
 
 ---
 
-14. Culture d'acquisition
+15. Culture d'acquisition
 
 Les entreprises capables d'acquérir intelligemment doivent être privilégiées.
 
@@ -381,7 +429,7 @@ une croissance du cash-flow par action
 
 ---
 
-15. Allocation dynamique du capital
+16. Allocation dynamique du capital
 
 L'entreprise doit être dirigée comme un organisme d'allocation du capital.
 
@@ -403,9 +451,59 @@ Elles savent où placer le prochain euro, dollar ou franc généré.
 
 La capacité à réallouer le capital est un avantage concurrentiel majeur.
 
+
 ---
 
-16. Résilience macroéconomique
+16 bis. Création de Nouveaux Piliers de Croissance
+
+L'entreprise doit démontrer sa capacité à créer ou acquérir de nouveaux moteurs économiques significatifs au fil du temps.
+
+L'objectif n'est pas seulement de faire croître l'activité historique.
+
+L'objectif est de construire régulièrement de nouveaux piliers capables de contribuer matériellement à la création de valeur.
+
+Questions à poser :
+
+Combien de segments significatifs n'existaient pas il y a 10 ou 20 ans ?
+Quelle part du chiffre d'affaires actuel provient d'activités créées ou acquises récemment ?
+L'entreprise développe-t-elle régulièrement de nouveaux relais de croissance ?
+L'entreprise est-elle capable d'étendre son périmètre économique au-delà de son métier historique ?
+
+Les entreprises les plus recherchées sont celles qui remplacent progressivement leurs anciens moteurs par de nouveaux moteurs avant que les premiers n'arrivent à maturité.
+
+Une entreprise capable de créer continuellement de nouveaux piliers de croissance possède un avantage stratégique supérieur à une entreprise dépendante d'une activité unique, même très rentable.
+
+---
+
+16 ter. Réutilisation des Actifs Stratégiques
+
+L'entreprise doit démontrer sa capacité à réutiliser ses actifs existants pour créer de nouvelles sources de revenus.
+
+Les actifs stratégiques peuvent inclure :
+
+une marque ;
+une base clients ;
+des données ;
+une infrastructure ;
+une force commerciale ;
+une capacité technologique ;
+un réseau de distribution ;
+une expertise sectorielle.
+
+Les meilleures organisations utilisent leurs actifs existants comme plateforme de lancement pour de nouvelles activités.
+
+Questions à poser :
+
+Les actifs existants permettent-ils de lancer de nouveaux produits ou services à faible coût marginal ?
+L'entreprise crée-t-elle régulièrement de nouvelles activités à partir d'infrastructures déjà amorties ?
+Les nouvelles activités bénéficient-elles d'effets de levier issus des activités historiques ?
+
+Les entreprises capables de monétiser plusieurs fois les mêmes actifs possèdent généralement un rendement du capital supérieur sur le long terme.
+
+
+---
+
+17. Résilience macroéconomique
 
 L'entreprise doit être capable de fonctionner dans plusieurs environnements économiques.
 
@@ -430,7 +528,7 @@ L'objectif est qu'elle puisse survivre, s'adapter et continuer à créer de la v
 
 ---
 
-17. Faible dépendance aux taux d'intérêt
+18. Faible dépendance aux taux d'intérêt
 
 L'entreprise ne doit pas être excessivement dépendante :
 
@@ -445,7 +543,7 @@ Une hausse des taux ne doit pas remettre en cause leur modèle économique.
 
 ---
 
-18. Faible dépendance à l'énergie
+19. Faible dépendance à l'énergie
 
 L'entreprise ne doit pas dépendre excessivement :
 
@@ -459,7 +557,7 @@ Les entreprises fortement exposées à l'énergie peuvent être intéressantes, 
 
 ---
 
-19. Faible dépendance aux matières premières
+20. Faible dépendance aux matières premières
 
 Une entreprise dépendante du prix d'une matière première doit être considérée comme plus cyclique.
 
@@ -480,7 +578,7 @@ Une entreprise exposée aux matières premières peut être acceptée seulement 
 
 ---
 
-20. Faible dépendance à la croissance économique
+21. Faible dépendance à la croissance économique
 
 L'entreprise doit pouvoir continuer à générer des revenus même lorsque la croissance mondiale ralentit.
 
@@ -506,7 +604,7 @@ Une exposition à la croissance est acceptable, mais elle ne doit pas être le s
 
 ---
 
-21. Faible sensibilité à la volatilité du marché
+22. Faible sensibilité à la volatilité du marché
 
 L'entreprise doit idéalement présenter une volatilité fondamentale modérée.
 
@@ -530,7 +628,7 @@ Le portefeuille doit chercher à limiter la volatilité excessive sans sacrifier
 
 ---
 
-22. Bêta et comportement de marché
+23. Bêta et comportement de marché
 
 Le portefeuille ne doit pas chercher à éviter totalement le risque actions.
 
@@ -547,7 +645,7 @@ réduire le risque de perte permanente
 
 ---
 
-23. Résilience financière
+24. Résilience financière
 
 L'entreprise doit disposer d'une structure financière robuste.
 
@@ -565,7 +663,7 @@ Une crise doit être une opportunité d'investissement, pas une menace de survie
 
 ---
 
-24. Qualité des revenus
+25. Qualité des revenus
 
 Tous les revenus ne se valent pas.
 
@@ -590,7 +688,7 @@ dépendants d'un produit unique
 
 ---
 
-25. Avantage concurrentiel durable
+26. Avantage concurrentiel durable
 
 L'entreprise doit posséder au moins un ou plusieurs avantages concurrentiels.
 
@@ -613,7 +711,7 @@ L'avantage concurrentiel le plus recherché reste la capacité à s'adapter et �
 
 ---
 
-26. Gouvernance indépendante du dirigeant
+27. Gouvernance indépendante du dirigeant
 
 L'entreprise ne doit pas dépendre d'une seule personne.
 
@@ -630,7 +728,7 @@ Une entreprise trop dépendante d'un dirigeant charismatique doit être pénalis
 
 ---
 
-27. Culture d'entreprise
+28. Culture d'entreprise
 
 La culture doit être un actif invisible mais déterminant.
 
@@ -649,7 +747,7 @@ Une culture forte permet à l'entreprise de conserver sa cohérence malgré les 
 
 ---
 
-28. Test de disparition du produit principal
+29. Test de disparition du produit principal
 
 Question critique :
 
@@ -671,7 +769,7 @@ pour recréer son avenir.
 
 ---
 
-29. Test de rupture technologique
+30. Test de rupture technologique
 
 Une technologie nouvelle peut-elle détruire l'entreprise ?
 
@@ -687,7 +785,7 @@ Elle les transforme en opportunités.
 
 ---
 
-30. Test géopolitique
+31. Test géopolitique
 
 L'entreprise doit pouvoir survivre à :
 
@@ -702,7 +800,7 @@ Une entreprise trop dépendante d'un seul bloc géopolitique doit être pénalis
 
 ---
 
-31. Test réglementaire
+32. Test réglementaire
 
 L'entreprise doit pouvoir survivre à un changement réglementaire important.
 
@@ -718,7 +816,7 @@ doivent être pénalisées.
 
 ---
 
-32. Test du dirigeant
+33. Test du dirigeant
 
 Si le dirigeant disparaît demain, l'entreprise reste-t-elle exceptionnelle ?
 
@@ -734,44 +832,57 @@ plusieurs dirigeants compétents
 
 ---
 
-32 bis. Test de l'Organisation
+33 bis. Test de l'Auto-Régénération
 
 Question fondamentale :
 
-Si l'ensemble des actifs actuels de l'entreprise disparaissait aujourd'hui, est-ce que je ferais encore confiance à cette organisation pour recréer de la valeur dans les décennies à venir ?
+Si l'ensemble des produits actuels devenaient obsolètes dans les vingt prochaines années, l'organisation disposerait-elle encore des capacités nécessaires pour recréer de nouveaux moteurs de croissance ?
 
-L'objectif est de distinguer :
-
-une franchise exceptionnelle ;
-une organisation exceptionnelle.
-
-Certaines entreprises possèdent aujourd'hui des actifs extraordinaires mais dépendent fortement de ces actifs.
-
-D'autres possèdent un système de décision, une culture, une gouvernance et une capacité d'allocation du capital capables de reconstruire de nouveaux moteurs de croissance au fil du temps.
-
-Les entreprises les plus recherchées sont celles dont :
+L'analyse doit porter sur :
 
 la culture ;
-les processus ;
 les mécanismes de décision ;
 l'allocation du capital ;
-la discipline d'acquisition ;
-la capacité d'adaptation ;
+la capacité d'acquisition ;
+la capacité d'innovation ;
+la qualité du management ;
+la discipline opérationnelle.
 
-constituent eux-mêmes un avantage concurrentiel durable.
+L'entreprise idéale doit être capable de recréer son avenir indépendamment de ses produits actuels.
 
-Une organisation capable de recréer son avenir mérite une valorisation supérieure à une organisation dépendante de ses actifs actuels.
+Les organisations les plus recherchées sont celles dont la véritable valeur réside dans leur système de création de valeur plutôt que dans leurs actifs existants.
 
-Exemples typiques :
-
-conglomérats disciplinés ;
-consolidateurs ;
-plateformes d'allocation du capital ;
-organisations capables de changer profondément de forme au fil des décennies.
+Une organisation auto-régénérative possède une probabilité plus élevée de rester pertinente sur plusieurs générations.
 
 ---
 
-33. Test du pays principal
+33 ter. Score d'Auto-Régénération
+
+Chaque entreprise est notée de 1 à 5 sur :
+
+1. Création de nouveaux segments
+2. Qualité des acquisitions
+3. Réallocation du capital
+4. Diversification des revenus
+5. Adaptation historique
+
+Interprétation :
+
+5/5 = Organisation exceptionnellement auto-régénérative
+
+4/5 = Organisation fortement adaptative
+
+3/5 = Organisation partiellement adaptative
+
+2/5 = Dépendance significative à l'activité historique
+
+1/5 = Dépendance critique à un moteur unique
+
+Une entreprise obtenant moins de 3/5 ne peut être considérée comme une organisation auto-régénérative.
+
+---
+
+34. Test du pays principal
 
 Si le pays principal ralentit, l'entreprise peut-elle continuer à croître ailleurs ?
 
@@ -779,7 +890,7 @@ Une entreprise uniquement domestique ou trop dépendante d'un seul marché est m
 
 ---
 
-34. Test de cycle économique
+35. Test de cycle économique
 
 L'entreprise doit être analysée dans plusieurs scénarios :
 
@@ -798,7 +909,7 @@ L'objectif est qu'elle survive et conserve sa capacité d'investissement.
 
 ---
 
-35. Test générationnel
+36. Test générationnel
 
 L'entreprise peut-elle encore être pertinente dans :
 
@@ -813,7 +924,7 @@ Si l'on ne peut pas imaginer l'entreprise s'adapter sur plusieurs générations,
 
 ---
 
-35 bis. Test du Besoin Fondamental
+36 bis. Test du Besoin Fondamental
 
 L'entreprise doit répondre à un besoin économique ou humain fondamental susceptible d'exister encore dans 25, 50 ou 100 ans.
 
@@ -849,7 +960,7 @@ L'entreprise idéale est celle qui répond à un besoin qui restera important m�
 
 ---
 
-36. Critères d'exclusion absolus
+37. Critères d'exclusion absolus
 
 Exclure ou fortement pénaliser les entreprises dépendantes :
 
@@ -868,7 +979,7 @@ d'un seul moteur de croissance
 
 ---
 
-37. Arbitrage rendement / risque
+38. Arbitrage rendement / risque
 
 Le but n'est pas de trouver l'entreprise avec la performance potentielle maximale.
 
@@ -885,7 +996,7 @@ Une entreprise plus lente mais plus durable peut être préférable à une entre
 
 ---
 
-38. Niveau de conviction
+39. Niveau de conviction
 
 Une entreprise ne doit entrer en portefeuille que si elle peut être justifiée clairement.
 
@@ -899,7 +1010,7 @@ Dans un portefeuille concentré, chaque position doit avoir un rôle clair.
 
 ---
 
-39. Pondération du portefeuille
+40. Pondération du portefeuille
 
 La pondération doit rester simple.
 
@@ -924,7 +1035,7 @@ Une pondération trop précise donne une illusion de maîtrise.
 
 ---
 
-40. Taille optimale du portefeuille
+41. Taille optimale du portefeuille
 
 Le portefeuille doit rester concentré.
 
@@ -942,7 +1053,7 @@ Au-delà de 15 entreprises, le portefeuille commence à ressembler à un ETF th�
 
 ---
 
-41. Entreprise idéale finale
+42. Entreprise idéale finale
 
 L'entreprise idéale n'est pas seulement une entreprise rentable.
 
@@ -973,8 +1084,19 @@ Elle ne dépend pas d'un cycle.
 Elle possède la capacité structurelle de rester pertinente lorsque le monde aura changé plusieurs fois.
 
 ---
+42 bis. Test Ultime
 
-42. Synthèse finale
+Question finale :
+
+Si l'ensemble des produits, services et actifs actuels disparaissaient demain, est-ce que je serais encore prêt à confier mon capital à cette organisation ?
+
+Si la réponse est oui, l'entreprise possède probablement les caractéristiques d'une organisation auto-régénérative.
+
+Si la réponse est non, la valeur provient principalement des actifs actuels plutôt que de la capacité de l'organisation à recréer son avenir.
+
+---
+
+43. Synthèse finale
 
 Ce cahier des charges vise à sélectionner des entreprises capables de composer du capital sur un horizon générationnel.
 
