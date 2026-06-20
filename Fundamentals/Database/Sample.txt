@@ -1,367 +1,773 @@
----
+Oui, là on change complètement d'objectif.
 
-# 🏆 Les 10 meilleurs exemples d'organisations exceptionnelles
+Tu ne veux plus un document qui dit :
 
-Parmi les milliers d'entreprises cotées dans le monde, certaines se distinguent non seulement par leurs résultats financiers, mais surtout par leur capacité démontrée à rester pertinentes lorsque leur environnement change.
+> "Voici 10 belles entreprises."
 
-Leur point commun n'est pas un produit.
+Tu veux un document qui montre :
 
-Leur point commun est l'existence d'un système organisationnel capable de créer, remplacer et renouveler les moteurs de croissance au fil du temps.
+> **"Voici à quoi ressemble une analyse qui identifie un mécanisme organisationnel exceptionnel."**
 
----
+Autrement dit :
 
-# 🥇 Berkshire Hathaway
+* question ;
+* raisonnement ;
+* diagnostic ;
+* conclusion.
 
-### La machine d'allocation du capital
+Comme une étude de cas.
 
-La plupart des entreprises créent de la valeur grâce à leurs produits.
-
-Berkshire crée de la valeur grâce à ses décisions.
-
-Son véritable produit n'est ni l'assurance, ni l'énergie, ni le ferroviaire.
-
-Son produit est :
-
-> l'allocation du capital.
-
-Depuis plus de 60 ans, Berkshire a démontré sa capacité à déplacer les ressources :
-
-* d'un secteur vers un autre ;
-* d'une génération vers une autre ;
-* d'un cycle économique vers un autre.
-
-Le besoin fondamental qu'elle sert est intemporel :
-
-> transformer le capital disponible en davantage de capital.
-
-Si l'ensemble de ses activités actuelles disparaissaient demain, il resterait encore une organisation capable d'allouer des milliards de dollars de manière disciplinée.
-
-C'est ce qui en fait probablement l'un des meilleurs exemples d'organisation patrimoniale jamais construite.
+Je structurerais alors le document comme ceci :
 
 ---
 
-# 🥈 Constellation Software
+# Études de cas : 10 formes d'organisations capables de recréer leur avenir
 
-### La machine qui transforme la fragmentation en richesse
+## Objectif
 
-La plupart des investisseurs pensent que Constellation est une société de logiciels.
+L'objectif n'est pas d'identifier les meilleures entreprises.
 
-C'est une erreur.
+L'objectif est de comprendre les différents mécanismes permettant à une organisation de rester pertinente lorsque son environnement change.
 
-Constellation est avant tout une machine d'acquisition.
+Chaque étude de cas répond à la même question :
 
-L'entreprise rachète des centaines de logiciels de niche :
-
-* hôpitaux ;
-* municipalités ;
-* universités ;
-* transports ;
-* infrastructures critiques.
-
-Son avantage ne réside pas dans les logiciels eux-mêmes.
-
-Il réside dans sa capacité à :
-
-* identifier les bonnes cibles ;
-* les intégrer ;
-* les conserver ;
-* les améliorer ;
-* réinvestir les flux générés.
-
-Le moteur devient plus puissant avec le temps car chaque acquisition enrichit l'expérience collective de l'organisation.
-
-Constellation illustre parfaitement l'idée qu'une entreprise peut devenir une plateforme d'apprentissage permanent.
+> Pourquoi cette organisation pourrait-elle encore être pertinente dans 50 ans ?
 
 ---
 
-# 🥉 Danaher
+# Cas n°1 — Berkshire Hathaway
 
-### La machine qui améliore les entreprises
+## Hypothèse initiale
 
-La plupart des acquéreurs savent acheter.
+Berkshire est-elle une compagnie d'assurance ?
 
-Peu savent améliorer.
+## Analyse
 
-Danaher est probablement l'un des meilleurs exemples mondiaux d'organisation capable de transformer les entreprises qu'elle acquiert.
+Les assurances génèrent du capital.
 
-Son véritable actif n'est pas :
+Ce capital est ensuite réalloué vers :
 
-* Cytiva ;
-* Leica ;
-* Cepheid ;
-* Beckman.
+* l'énergie ;
+* le ferroviaire ;
+* l'industrie ;
+* les services ;
+* les actions cotées.
 
-Son véritable actif est le Danaher Business System.
+La croissance ne dépend pas d'une activité particulière.
 
-Un système de management permettant d'améliorer :
+Elle dépend de la capacité de l'organisation à rediriger les ressources vers les meilleures opportunités disponibles.
+
+## Diagnostic
+
+L'avantage concurrentiel principal n'est pas un produit.
+
+L'avantage concurrentiel principal est :
+
+> la discipline d'allocation du capital.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle peut remplacer ses moteurs économiques.
+
+---
+
+# Cas n°2 — Constellation Software
+
+## Hypothèse initiale
+
+Constellation est-elle une entreprise de logiciels ?
+
+## Analyse
+
+L'entreprise possède des centaines de logiciels.
+
+Mais les logiciels changent constamment.
+
+Le véritable point commun est ailleurs.
+
+Chaque acquisition enrichit :
 
 * les processus ;
-* la productivité ;
-* la qualité ;
-* l'allocation du capital.
+* l'expérience ;
+* les méthodes d'intégration ;
+* les capacités d'évaluation.
 
-Danaher ne se contente pas d'accumuler des actifs.
+## Diagnostic
 
-Elle améliore systématiquement les actifs qu'elle possède.
+Le véritable actif est :
 
-C'est une différence fondamentale.
+> le système d'acquisition.
 
----
+## Pourquoi cette organisation pourrait survivre ?
 
-# 4. Microsoft
-
-### La machine qui se réinvente
-
-L'histoire de Microsoft est souvent résumée à Windows.
-
-Pourtant l'entreprise a déjà changé plusieurs fois de moteur économique :
-
-* Windows ;
-* Office ;
-* Serveurs ;
-* Cloud ;
-* Cybersécurité ;
-* IA.
-
-Très peu d'entreprises dominantes réussissent plusieurs transformations majeures.
-
-Microsoft démontre qu'une plateforme peut :
-
-* abandonner certaines activités ;
-* en créer de nouvelles ;
-* cannibaliser ses anciens succès ;
-* rester pertinente malgré les ruptures technologiques.
-
-La véritable force de Microsoft n'est pas un produit.
-
-C'est sa capacité à transformer sa position dominante en nouveaux moteurs de croissance.
+Parce qu'elle améliore continuellement sa capacité à acheter de nouvelles activités.
 
 ---
 
-# 5. RELX
+# Cas n°3 — Danaher
 
-### La machine qui protège le besoin plutôt que le produit
+## Hypothèse initiale
 
-RELX est probablement l'entreprise la plus sous-estimée de cette liste.
+Danaher est-elle une entreprise de santé ?
 
-Historiquement, RELX était un éditeur.
+## Analyse
 
-L'édition papier représentait l'essentiel de sa valeur.
+Au fil du temps :
 
-Puis le monde a changé.
+* les sociétés détenues ont changé ;
+* les secteurs ont changé ;
+* les produits ont changé.
 
-RELX a progressivement migré vers :
+Ce qui est resté constant :
+
+* le Danaher Business System.
+
+Chaque acquisition est intégrée dans un système de management reproductible.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> le système opérationnel.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle sait améliorer ce qu'elle achète.
+
+---
+
+# Cas n°4 — Microsoft
+
+## Hypothèse initiale
+
+Microsoft est-elle Windows ?
+
+## Analyse
+
+Windows.
+
+Office.
+
+Serveurs.
+
+Cloud.
+
+Cybersécurité.
+
+IA.
+
+Les moteurs ont changé plusieurs fois.
+
+La plateforme s'est adaptée à chaque vague technologique.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> la capacité de réinvention.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle a déjà démontré sa capacité à remplacer ses propres succès.
+
+---
+
+# Cas n°5 — RELX
+
+## Hypothèse initiale
+
+RELX est-elle un éditeur ?
+
+## Analyse
+
+Le papier a disparu.
+
+Les revenus sont restés.
+
+L'entreprise s'est déplacée vers :
 
 * les données ;
 * les logiciels ;
 * les workflows ;
-* l'analytique ;
-* les outils décisionnels.
+* l'aide à la décision.
 
-Le besoin du client est resté.
+## Diagnostic
 
-Le produit a changé.
+Le véritable actif est :
 
-Cette distinction est essentielle.
+> la compréhension durable du besoin client.
 
-Les entreprises ordinaires protègent leurs produits.
+## Pourquoi cette organisation pourrait survivre ?
 
-Les entreprises exceptionnelles protègent les problèmes qu'elles résolvent.
-
-RELX illustre parfaitement cette logique.
+Parce qu'elle protège le besoin plutôt que le produit.
 
 ---
 
-# 6. Brookfield Corporation
+# Cas n°6 — Visa
 
-### La machine qui recycle les actifs du monde réel
+## Hypothèse initiale
 
-La plupart des investisseurs considèrent Brookfield comme un gestionnaire d'actifs.
+Visa est-elle une société de paiement ?
 
-C'est réducteur.
+## Analyse
 
-Brookfield est une organisation spécialisée dans la transformation d'actifs complexes.
+Visa ne prête pas.
 
-Elle achète souvent :
+Visa ne collecte pas les dépôts.
 
-* des infrastructures sous-optimisées ;
-* des actifs délaissés ;
-* des réseaux énergétiques ;
-* des infrastructures de transport ;
-* des actifs immobiliers.
+Visa coordonne un réseau.
 
-Puis elle améliore :
+Chaque nouveau participant renforce tous les autres.
 
-* l'exploitation ;
-* le financement ;
-* la structure du capital ;
-* les flux de trésorerie.
+## Diagnostic
 
-Brookfield transforme des actifs difficiles en actifs attractifs.
+Le véritable actif est :
 
-Son véritable métier n'est pas la propriété.
+> l'effet de réseau.
 
-Son métier est :
+## Pourquoi cette organisation pourrait survivre ?
 
-> la revalorisation du capital à grande échelle.
+Parce que son utilité augmente avec sa taille.
 
 ---
 
-# 7. Amazon
+# Cas n°7 — Atlas Copco
 
-### La machine qui étend constamment ses frontières
+## Hypothèse initiale
 
-La plupart des entreprises cherchent à défendre leur marché.
+Atlas Copco est-elle un fabricant de compresseurs ?
 
-Amazon cherche continuellement à en créer de nouveaux.
+## Analyse
 
-L'entreprise a successivement construit :
+Depuis 1873 :
 
-* le commerce électronique ;
-* la logistique ;
-* AWS ;
-* Prime ;
-* la publicité ;
-* l'IA.
+* les produits ont changé ;
+* les industries ont changé ;
+* les clients ont changé.
 
-Chaque nouveau moteur renforce les précédents.
+L'organisation est restée pertinente.
 
-La logistique améliore le commerce.
+## Diagnostic
 
-Le commerce nourrit Prime.
+Le véritable actif est :
 
-Prime renforce la fidélisation.
+> la capacité d'adaptation intergénérationnelle.
 
-AWS finance l'innovation.
+## Pourquoi cette organisation pourrait survivre ?
 
-La publicité monétise le trafic.
-
-Amazon fonctionne comme un système en expansion permanente.
-
-Son véritable avantage est sa capacité à repousser constamment les frontières de son activité.
+Parce qu'elle l'a déjà démontré pendant plus d'un siècle.
 
 ---
 
-# 8. Alphabet
+# Cas n°8 — Itochu
 
-### La machine qui monétise la connaissance
+## Hypothèse initiale
 
-Alphabet est souvent perçue comme une entreprise de publicité.
+Itochu est-elle une société de négoce japonaise ?
 
-C'est probablement la lecture la plus superficielle possible.
+## Analyse
 
-Le véritable actif d'Alphabet est sa capacité à organiser, comprendre et distribuer l'information mondiale.
+L'entreprise est présente dans :
 
-Recherche.
+* l'alimentation ;
+* l'énergie ;
+* les infrastructures ;
+* la distribution ;
+* les matériaux ;
+* la finance.
 
-Cartographie.
+Le point commun n'est pas le secteur.
 
-Vidéo.
+Le point commun est la réallocation permanente du capital.
 
-IA.
+## Diagnostic
+
+Le véritable actif est :
+
+> la diversification comme compétence.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle n'est pas dépendante d'un moteur économique unique.
+
+---
+
+# Cas n°9 — Copart
+
+## Hypothèse initiale
+
+Copart est-elle un vendeur de véhicules accidentés ?
+
+## Analyse
+
+Copart organise un marché.
+
+Elle connecte :
+
+* assureurs ;
+* recycleurs ;
+* réparateurs ;
+* exportateurs.
+
+Elle ne produit rien.
+
+Elle coordonne des flux.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> l'organisation du marché.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle est devenue l'infrastructure du processus.
+
+---
+
+# Cas n°10 — Halma
+
+## Hypothèse initiale
+
+Halma est-elle une entreprise de sécurité ?
+
+## Analyse
+
+L'organisation regroupe des dizaines d'entreprises de niche.
+
+Les activités sont différentes.
+
+Les besoins fondamentaux sont similaires :
+
+* sécurité ;
+* conformité ;
+* santé ;
+* environnement.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> la composition disciplinée de niches critiques.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'aucun moteur individuel n'est indispensable à la survie de l'ensemble.
+
+---
+
+# Synthèse finale
+
+Le but de ces études de cas n'est pas de conclure que ces entreprises sont les meilleures.
+
+Le but est de montrer que plusieurs chemins différents peuvent conduire à une organisation exceptionnelle :
+
+* allocation du capital ;
+* acquisition ;
+* amélioration opérationnelle ;
+* réinvention ;
+* effets de réseau ;
+* diversification ;
+* standardisation ;
+* adaptation historique.
+
+L'investisseur patrimonial ne cherche pas uniquement des produits dominants.
+
+Il cherche des organisations capables de reconstruire leur avenir lorsque les produits dominants disparaissent.
+
+
+10 mécanismes organisationnels
+
+Chaque entreprise illustre une façon différente de recréer son avenir.
+
+mecanisme	presence
+Allocation du capital	1
+Acquisition	1
+Système opérationnel	1
+Réinvention	1
+Besoin client	1
+Effets de réseau	1
+Adaptation historique	1
+Diversification	1
+Organisation du marché	1
+Composition de niches	1Oui, là on change complètement d'objectif.
+
+Tu ne veux plus un document qui dit :
+
+> "Voici 10 belles entreprises."
+
+Tu veux un document qui montre :
+
+> **"Voici à quoi ressemble une analyse qui identifie un mécanisme organisationnel exceptionnel."**
+
+Autrement dit :
+
+* question ;
+* raisonnement ;
+* diagnostic ;
+* conclusion.
+
+Comme une étude de cas.
+
+Je structurerais alors le document comme ceci :
+
+---
+
+# Études de cas : 10 formes d'organisations capables de recréer leur avenir
+
+## Objectif
+
+L'objectif n'est pas d'identifier les meilleures entreprises.
+
+L'objectif est de comprendre les différents mécanismes permettant à une organisation de rester pertinente lorsque son environnement change.
+
+Chaque étude de cas répond à la même question :
+
+> Pourquoi cette organisation pourrait-elle encore être pertinente dans 50 ans ?
+
+---
+
+# Cas n°1 — Berkshire Hathaway
+
+## Hypothèse initiale
+
+Berkshire est-elle une compagnie d'assurance ?
+
+## Analyse
+
+Les assurances génèrent du capital.
+
+Ce capital est ensuite réalloué vers :
+
+* l'énergie ;
+* le ferroviaire ;
+* l'industrie ;
+* les services ;
+* les actions cotées.
+
+La croissance ne dépend pas d'une activité particulière.
+
+Elle dépend de la capacité de l'organisation à rediriger les ressources vers les meilleures opportunités disponibles.
+
+## Diagnostic
+
+L'avantage concurrentiel principal n'est pas un produit.
+
+L'avantage concurrentiel principal est :
+
+> la discipline d'allocation du capital.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle peut remplacer ses moteurs économiques.
+
+---
+
+# Cas n°2 — Constellation Software
+
+## Hypothèse initiale
+
+Constellation est-elle une entreprise de logiciels ?
+
+## Analyse
+
+L'entreprise possède des centaines de logiciels.
+
+Mais les logiciels changent constamment.
+
+Le véritable point commun est ailleurs.
+
+Chaque acquisition enrichit :
+
+* les processus ;
+* l'expérience ;
+* les méthodes d'intégration ;
+* les capacités d'évaluation.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> le système d'acquisition.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle améliore continuellement sa capacité à acheter de nouvelles activités.
+
+---
+
+# Cas n°3 — Danaher
+
+## Hypothèse initiale
+
+Danaher est-elle une entreprise de santé ?
+
+## Analyse
+
+Au fil du temps :
+
+* les sociétés détenues ont changé ;
+* les secteurs ont changé ;
+* les produits ont changé.
+
+Ce qui est resté constant :
+
+* le Danaher Business System.
+
+Chaque acquisition est intégrée dans un système de management reproductible.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> le système opérationnel.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle sait améliorer ce qu'elle achète.
+
+---
+
+# Cas n°4 — Microsoft
+
+## Hypothèse initiale
+
+Microsoft est-elle Windows ?
+
+## Analyse
+
+Windows.
+
+Office.
+
+Serveurs.
 
 Cloud.
 
-Navigation.
+Cybersécurité.
 
-Le moteur économique est toujours le même :
+IA.
 
-> transformer l'information en capacité de décision.
+Les moteurs ont changé plusieurs fois.
 
-Chaque nouveau produit enrichit sa compréhension du monde.
+La plateforme s'est adaptée à chaque vague technologique.
 
-Chaque interaction améliore ses systèmes.
+## Diagnostic
 
-Alphabet n'exploite pas seulement un marché.
+Le véritable actif est :
 
-Elle exploite un immense réseau de connaissances.
+> la capacité de réinvention.
 
----
+## Pourquoi cette organisation pourrait survivre ?
 
-# 9. S&P Global
-
-### La machine qui transforme l'information en standard
-
-L'information seule a peu de valeur.
-
-L'information standardisée a une valeur immense.
-
-S&P Global ne vend pas seulement :
-
-* des données ;
-* des indices ;
-* des notations.
-
-Elle vend la confiance.
-
-Les marchés mondiaux ont besoin :
-
-* de référentiels ;
-* de standards ;
-* de mesures communes.
-
-Lorsque des milliers d'investisseurs prennent des décisions à partir des mêmes indicateurs, ces indicateurs deviennent des infrastructures.
-
-Le véritable produit de S&P Global est :
-
-> un langage commun pour les marchés financiers.
+Parce qu'elle a déjà démontré sa capacité à remplacer ses propres succès.
 
 ---
 
-# 10. Thermo Fisher Scientific
+# Cas n°5 — RELX
 
-### La machine qui fournit les chercheurs du monde entier
+## Hypothèse initiale
 
-Thermo Fisher ne cherche pas à découvrir les médicaments.
+RELX est-elle un éditeur ?
 
-Elle équipe ceux qui les découvrent.
+## Analyse
 
-Cette nuance est fondamentale.
+Le papier a disparu.
 
-L'entreprise fournit :
+Les revenus sont restés.
 
-* les laboratoires ;
-* les biotechnologies ;
-* les universités ;
-* les industriels de la santé.
+L'entreprise s'est déplacée vers :
 
-Elle se positionne non pas sur une innovation particulière mais sur l'ensemble de l'écosystème scientifique.
+* les données ;
+* les logiciels ;
+* les workflows ;
+* l'aide à la décision.
 
-Plus la recherche progresse :
+## Diagnostic
 
-* plus Thermo Fisher vend ;
-* plus ses solutions deviennent critiques ;
-* plus son intégration dans les processus augmente.
+Le véritable actif est :
 
-Elle ne parie pas sur un résultat scientifique.
+> la compréhension durable du besoin client.
 
-Elle parie sur l'existence permanente de la recherche scientifique elle-même.
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle protège le besoin plutôt que le produit.
 
 ---
 
-# Ce qui relie ces 10 entreprises
+# Cas n°6 — Visa
 
-À première vue, elles semblent très différentes.
+## Hypothèse initiale
 
-Mais elles partagent une caractéristique rare :
+Visa est-elle une société de paiement ?
 
-Elles ont construit des organisations capables de générer de nouveaux moteurs de croissance sans dépendre entièrement d'un produit unique.
+## Analyse
 
-| Entreprise               | Moteur profond                   |
-| ------------------------ | -------------------------------- |
-| Berkshire Hathaway       | Allocation du capital            |
-| Constellation Software   | Acquisition systématique         |
-| Danaher                  | Amélioration continue            |
-| Microsoft                | Réinvention de plateforme        |
-| RELX                     | Transformation du besoin client  |
-| Brookfield               | Revalorisation d'actifs réels    |
-| Amazon                   | Expansion permanente             |
-| Alphabet                 | Monétisation de la connaissance  |
-| S&P Global               | Standardisation de l'information |
-| Thermo Fisher Scientific | Infrastructure scientifique      |
+Visa ne prête pas.
 
-C'est précisément ce qui les distingue des simples franchises exceptionnelles.
+Visa ne collecte pas les dépôts.
 
-Leur véritable avantage concurrentiel n'est pas un produit.
+Visa coordonne un réseau.
 
-C'est leur capacité démontrée à recréer leur avenir lorsque le monde change.
+Chaque nouveau participant renforce tous les autres.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> l'effet de réseau.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce que son utilité augmente avec sa taille.
+
+---
+
+# Cas n°7 — Atlas Copco
+
+## Hypothèse initiale
+
+Atlas Copco est-elle un fabricant de compresseurs ?
+
+## Analyse
+
+Depuis 1873 :
+
+* les produits ont changé ;
+* les industries ont changé ;
+* les clients ont changé.
+
+L'organisation est restée pertinente.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> la capacité d'adaptation intergénérationnelle.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle l'a déjà démontré pendant plus d'un siècle.
+
+---
+
+# Cas n°8 — Itochu
+
+## Hypothèse initiale
+
+Itochu est-elle une société de négoce japonaise ?
+
+## Analyse
+
+L'entreprise est présente dans :
+
+* l'alimentation ;
+* l'énergie ;
+* les infrastructures ;
+* la distribution ;
+* les matériaux ;
+* la finance.
+
+Le point commun n'est pas le secteur.
+
+Le point commun est la réallocation permanente du capital.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> la diversification comme compétence.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle n'est pas dépendante d'un moteur économique unique.
+
+---
+
+# Cas n°9 — Copart
+
+## Hypothèse initiale
+
+Copart est-elle un vendeur de véhicules accidentés ?
+
+## Analyse
+
+Copart organise un marché.
+
+Elle connecte :
+
+* assureurs ;
+* recycleurs ;
+* réparateurs ;
+* exportateurs.
+
+Elle ne produit rien.
+
+Elle coordonne des flux.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> l'organisation du marché.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'elle est devenue l'infrastructure du processus.
+
+---
+
+# Cas n°10 — Halma
+
+## Hypothèse initiale
+
+Halma est-elle une entreprise de sécurité ?
+
+## Analyse
+
+L'organisation regroupe des dizaines d'entreprises de niche.
+
+Les activités sont différentes.
+
+Les besoins fondamentaux sont similaires :
+
+* sécurité ;
+* conformité ;
+* santé ;
+* environnement.
+
+## Diagnostic
+
+Le véritable actif est :
+
+> la composition disciplinée de niches critiques.
+
+## Pourquoi cette organisation pourrait survivre ?
+
+Parce qu'aucun moteur individuel n'est indispensable à la survie de l'ensemble.
+
+---
+
+# Synthèse finale
+
+Le but de ces études de cas n'est pas de conclure que ces entreprises sont les meilleures.
+
+L'investisseur patrimonial ne cherche pas uniquement des produits dominants.
+
+Il cherche des organisations capables de reconstruire leur avenir lorsque les produits dominants disparaissent.
+
+10 mécanismes organisationnels
+
+Chaque entreprise illustre une façon différente de recréer son avenir.
+
+* mecanisme	presence;
+* Allocation du capital;
+* Acquisition;
+* Système opérationnel;
+* Réinvention;
+* Besoin client;
+* Effets de réseau;
+* Adaptation historique;
+* Diversification;
+* Organisation du marché;
+* Composition de niches
