@@ -1,26 +1,3 @@
-Oui, là on change complètement d'objectif.
-
-Tu ne veux plus un document qui dit :
-
-> "Voici 10 belles entreprises."
-
-Tu veux un document qui montre :
-
-> **"Voici à quoi ressemble une analyse qui identifie un mécanisme organisationnel exceptionnel."**
-
-Autrement dit :
-
-* question ;
-* raisonnement ;
-* diagnostic ;
-* conclusion.
-
-Comme une étude de cas.
-
-Je structurerais alors le document comme ceci :
-
----
-
 # Études de cas : 10 formes d'organisations capables de recréer leur avenir
 
 ## Objectif
